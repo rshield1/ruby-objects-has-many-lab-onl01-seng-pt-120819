@@ -6,7 +6,7 @@ class Author
   end
   
   def posts
-    post.all = self
+    posts.all = self
   end
   
 end
